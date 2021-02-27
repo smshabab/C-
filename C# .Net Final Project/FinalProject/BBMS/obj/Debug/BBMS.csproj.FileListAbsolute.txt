@@ -1,0 +1,36 @@
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\bin\Debug\BBMS.exe.config
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\bin\Debug\BBMS.exe
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\bin\Debug\BBMS.pdb
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.csprojAssemblyReference.cache
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form1.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form2.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.exe
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.pdb
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form4.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form3.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.UserControl2.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form5.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form6.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form7.resources
+C:\Users\S.M.Shabab\source\repos\FinalProject\BBMS\obj\Debug\BBMS.Form8.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\bin\Debug\BBMS.exe.config
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\bin\Debug\BBMS.exe
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\bin\Debug\BBMS.pdb
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.csprojAssemblyReference.cache
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form1.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form2.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form3.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form4.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form5.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form6.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form7.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Form8.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.Properties.Resources.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.UserControl2.resources
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.csproj.GenerateResource.cache
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.exe
+C:\Users\S.M. Shabab\Downloads\C# .Net Final Project\FinalProject\BBMS\obj\Debug\BBMS.pdb
